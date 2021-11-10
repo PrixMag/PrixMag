@@ -23,7 +23,7 @@
 ##
 <div style="display: inline_block">
   <h3>Contato</h3>
-  <a href="linkedin.com/in/priscila-magalhaes-canel-340808206" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+  <a href="https://www.linkedin.com/in/priscila-magalhaes-canel-340808206" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
   <a href ="mailto:prixmagalha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 </div>
   
